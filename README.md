@@ -216,7 +216,7 @@ NYC-Vehicle-Fatalities-Analysis
 │   └── crash_heatmap.html
 │
 ├── poster
-│   └── explorer_tdsp_poster.pdf
+│   └── ARUNESHWARAN SIVAKUMAR Explorer TDSP Poster.pdf
 │
 ├── README.md
 ```
