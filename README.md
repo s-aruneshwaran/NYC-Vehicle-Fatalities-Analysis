@@ -213,7 +213,8 @@ NYC-Vehicle-Fatalities-Analysis
 │   ├── contributing_factors_by_borough.png
 │
 ├── maps
-│   └── crash_heatmap.html
+│   ├── Heatmap.png
+│   ├── severity.png
 │
 ├── poster
 │   └── ARUNESHWARAN SIVAKUMAR Explorer TDSP Poster.pdf
