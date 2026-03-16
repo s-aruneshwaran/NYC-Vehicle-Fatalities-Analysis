@@ -218,6 +218,8 @@ NYC-Vehicle-Fatalities-Analysis
 ├── poster
 │   └── ARUNESHWARAN SIVAKUMAR Explorer TDSP Poster.pdf
 │
+├── requirements.txt
+│
 ├── README.md
 ```
 
